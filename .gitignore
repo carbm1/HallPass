@@ -1,0 +1,7 @@
+*.ud
+*.csv
+*.sd
+*.zip
+settings.ps1
+files\
+hallpass\
