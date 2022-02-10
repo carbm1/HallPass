@@ -9,6 +9,11 @@ cd \scripts
 git clone https://github.com/AR-k12code/hallpass.git
 ````
 
+### Initial Settings File
+````
+Copy-Item settings_sample.ps1 settings.ps1
+````
+
 ## Requirements
 - CognosDownloader installed using the suggested install process
 - Git
